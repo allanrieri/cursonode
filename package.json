@@ -1,0 +1,35 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanrieri/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Allan Rieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allanrieri/cursonode/issues"
+  },
+  "homepage": "https://github.com/allanrieri/cursonode#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "global": "^4.4.0"
+  }
+}
